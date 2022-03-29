@@ -14,12 +14,13 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		int k;
 		cin >> k;
-		tmp.push_back(k);
+		tmp.push_back(-k);
 	}
 
+	//reverse(tmp.begin(), tmp.end());
 	if (next_permutation(tmp.begin(), tmp.end())) {
 		for (int i = 0; i < n; i++) {
-			cout << tmp[i] << " ";
+			cout << -tmp[i] << " ";
 		}
 	}
 	else {

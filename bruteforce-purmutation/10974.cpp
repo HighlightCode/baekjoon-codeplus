@@ -12,17 +12,14 @@ int main() {
 
 	vector<int> tmp;
 	for (int i = 0; i < n; i++) {
-		int k;
-		cin >> k;
-		tmp.push_back(k);
+		tmp.push_back(i+1);
 	}
 
-	if (next_permutation(tmp.begin(), tmp.end())) {
+	//reverse(tmp.begin(), tmp.end());
+	do {
 		for (int i = 0; i < n; i++) {
 			cout << tmp[i] << " ";
 		}
-	}
-	else {
-		cout << -1 << endl;
-	}
+		cout << "\n";
+	} while (next_permutation(tmp.begin(), tmp.end()));
 }
