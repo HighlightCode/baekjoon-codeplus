@@ -20,3 +20,9 @@
 | [브루트포스 - N과 M](https://www.acmicpc.net/workbook/view/9372)| 코딩테스트 준비-기초  | <li>- [X] solved </li> |🐭🐭🐭🐭🐭🐭🐭🐭🐭|
 | [브루트포스 - 재귀](https://www.acmicpc.net/workbook/view/9373) | 코딩테스트 준비-기초  | <li>- [X] solved </li> |🐭🐱🐭🐭🐭🐭🐱|
 | [브루트포스 - 순열](https://www.acmicpc.net/workbook/view/9374) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐭🐭🐭🐭|
+| [브루트포스 - 비트마스크](https://www.acmicpc.net/workbook/view/9375) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐭🐱|
+| [다이나믹 - part1](https://www.acmicpc.net/workbook/view/9376) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐭🐭🐭🐭🐭🐭🐭🐭🐱🐭🐭🐭🐱|
+| [다이나믹 - part2](https://www.acmicpc.net/workbook/view/9377) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐭🐭🐭🐭🐭🐭🐱🐱🐱|
+| [큐와 그래프](https://www.acmicpc.net/workbook/view/9378) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐱🐭🐭🐱🐭🐭🐱🐭|
+| [BFS](https://www.acmicpc.net/workbook/view/9379) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐱🐱🐱🐱|
+| [다이나믹 - part2](https://www.acmicpc.net/workbook/view/9377) | 코딩테스트 준비-기초  | <li>- [ ] solved </li> |🐭🐭🐱🐱🐱🐭🐱🐱🐭🐭🐱🐭🐱🐱|
