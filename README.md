@@ -2,7 +2,8 @@
 
 - solution for the baek joon code plus ..
 - https://www.acmicpc.net/workbook/codeplus
-- 
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>목차 살펴보기</summary>
